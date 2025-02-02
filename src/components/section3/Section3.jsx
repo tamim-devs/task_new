@@ -11,7 +11,7 @@ const Section3 = () => {
         "Elevate customer experience and achieve agile financial product innovation with the world’s first, consumer-centric, real-time transaction account processing and credit limit system.",
       subContent:
         "Experience the advantages of integrated retail financial services technology, real-time analysis of transactional behaviour and product marketing opportunities.",
-      imageUrl: "../../../public/Section3.png",
+      imageUrl: "../../../src/assets/Section3.png",
     },
     {
       title: "Agile and adaptable",
@@ -20,8 +20,8 @@ const Section3 = () => {
         "Innovate with evolving customer demands through our open platform-based technology architecture. Stay ahead of the ever-changing financial landscape with a strong focus on security, compliance and performance.",
       subContent:
         "Optimise your offerings to unlock new revenue streams and deliver an extraordinary customer experience, with digitally designed core banking, payment processing and lending capabilities.",
-      imageUrl: "../../../public/slide2.png",
-    },
+        imageUrl: "../../../src/assets/slide2.png",
+      },
     {
       title: "Compliance Ready",
       heading: "Manage compliance with ease",
@@ -29,7 +29,7 @@ const Section3 = () => {
         "Navigate through the evolving regulatory landscape with confidence by streamlining compliance management—through real-time risk monitoring solutions powered by AI and machine learning.",
       subContent:
         "Transform your compliance strategy with flexible and diversified policy rules, powered by cutting-edge technology that is designed for seamless integration with core banking and card payment systems.",
-      imageUrl: "./../../../public/slide3.png",
+        imageUrl: "../../../src/assets/slide3.png",
     },
     {
       title: "Secure and Safe",
@@ -37,7 +37,7 @@ const Section3 = () => {
       content: "Discover unparalleled security trusted by financial institutions across the globe. Our applications are meticulously developed in compliance with international security standards, drawing on 20 years of technical expertise.",
       subContent:
         "Join over 40 esteemed Fls, each serving more than 200 million customers, and benefit from our secure, robust and reliable infrastructure.",
-      imageUrl: "../../../public/slide4.png",
+        imageUrl: "../../../src/assets/slide4.png",
     },
   ];
 
