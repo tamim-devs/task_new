@@ -1,9 +1,15 @@
-*{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box
+@import "tailwindcss";
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
 }
 
-
-
 @import "tailwindcss";
+@theme {
+  --color-blueSky: rgba(31, 128, 240, 1);
+  --color-textBlue: rgba(11, 48, 91, 1);
+  --color-pTc: rgba(22, 67, 119, 1);
+  --font-Montserrat: "Montserrat", serif;
+  --font-Inter: "Inter Variable,sans-serif";
+}
