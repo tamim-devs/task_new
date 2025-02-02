@@ -33,7 +33,7 @@ const Section2 = () => {
           />
         </div>
 
-        <div className="flex flex-wrap justify-center gap-6 sm:gap-8 md:gap-10 lg:gap-12 mt-10">
+        <div className="flex flex-row justify-center gap-6 sm:gap-8 md:gap-10 lg:gap-12 mt-10">
           {/* Card 1 */}
           <div
             className="w-full max-w-xs sm:max-w-md flex flex-col gap-8 bg-[#F8FCFF] pt-6 pb-10 px-6 rounded-lg"
